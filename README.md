@@ -1,3 +1,3 @@
 # sohamsolanki.github.io
-Soham's Personal Portfolio
+soham solanki's personal portfolio
 > Created by Soham Solanki, copyright 2022
